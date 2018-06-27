@@ -1,5 +1,8 @@
 package Ejercicio1;
 
+/**Crea un programa que saque la cadena de caracteres mas larga de la array.
+*/
+
 public class ejercicio1 {
     //Imprime el nombre mas largo 
     public static void main(String[]args){
